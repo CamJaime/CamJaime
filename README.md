@@ -48,6 +48,4 @@ Looking forward to connecting with like-minded professionals and discovering new
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ###
