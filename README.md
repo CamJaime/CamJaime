@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Camila I'm from Argentina
+<h2 align="justify">Hi 👋! My name is Camila I'm from Argentina
 I'm a tech enthusiast on a journey to become a Web Developer and IT Support Specialist. I'm driven by curiosity and fueled by creativity, with strong communication skills and a knack for problem-solving. Adaptable and proactive, I'm excited to bring my skills to a team where I can grow, contribute, and make an impact by tackling meaningful challenges!
 
 Looking forward to connecting with like-minded professionals and discovering new opportunities to reach shared goals. Let’s build something amazing together! 🚀</h2>
